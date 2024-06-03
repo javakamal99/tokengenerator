@@ -8,6 +8,7 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<packaging>jar</packaging>
 	<groupId>com.example</groupId>
 	<artifactId>tokengenerator</artifactId>
 	<version>1.0</version>
